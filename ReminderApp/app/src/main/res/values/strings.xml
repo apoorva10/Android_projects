@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="Monday">Mo</string>
+    <string name="Tuesday">Tu</string>
+    <string name="Wednesday">We</string>
+    <string name="Thursday">Th</string>
+    <string name="Friday">Fr</string>
+    <string name="Saturday">Sa</string>
+    <string name="Sunday">Su</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="action_edit">edit</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+    <string name="title_activity_today_reminder">TodayReminder</string>
+    <string name="title_activity_tomorrow_reminder">TomorrowReminder</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="pause">Pause Location Updates</string>
+<string name="resume">Resume Location Updates</string>
+</resources>
